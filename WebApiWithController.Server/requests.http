@@ -1,0 +1,6 @@
+@BaseApiUrl = http://localhost:5114
+
+GET {{BaseApiUrl}}/api/Hero
+Accept: application/json
+
+###
